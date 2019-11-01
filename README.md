@@ -54,6 +54,12 @@
      - [常用公式与函数](https://misshop.github.io/www/MisShop快速入门教程/3-5-公式与函数)
      - [日期对象函数](https://misshop.github.io/www/MisShop快速入门教程/3-5-1-公式与函数-—-日期对象)
   - [常见错误](https://misshop.github.io/www/MisShop快速入门教程/附4-常见错误)
+- 模板
+  - [模板开发](https://misshop.github.io/www/MisShop快速入门教程/4-7-开发技巧：模板开发)
+  - [模板开发补充说明](https://misshop.github.io/www/MisShop快速入门教程/4-7-1-模板开发补充)
+- 流程
+  - [流程开发](https://misshop.github.io/www/MisShop快速入门教程/4-6-开发技巧：流程开发)
+  - [流程页面配置](https://misshop.github.io/www/MisShop快速入门教程/4-6-1-开发技巧：流程开发—页面配置)
 - MisShop部署相关
   - 应用版本更新
      - [MisShop应用的更新与迭代](https://misshop.github.io/www/MisShop部署相关/MisShop应用更新迭代)
@@ -64,4 +70,5 @@
   - 微信部署相关
      - [部署微信支付](https://misshop.github.io/www/MisShop部署相关/Misshop部署微信支付)
      - [配置微信公众号](https://misshop.github.io/www/MisShop部署相关/Misshop配置微信公众号服务号)
+
 - MisShop杂谈
