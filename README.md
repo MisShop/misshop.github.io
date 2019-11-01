@@ -19,6 +19,7 @@
   - 页面
      - [页面概述](https://misshop.github.io/www/MisShop快速入门教程/3-1-页面概述)
      - [基础功能](https://misshop.github.io/www/MisShop快速入门教程/1-4-基础功能)
+     - [页面设置](https://misshop.github.io/www/MisShop学习/页面设置)
      - [列表页面设计举例](https://misshop.github.io/www/MisShop快速入门教程/3-2-列表页面设计举例)
      - [页面数据](https://misshop.github.io/www/MisShop快速入门教程/3-3-页面数据)
      - [页面单元格](https://misshop.github.io/www/MisShop快速入门教程/3-4-4页面单元格)
@@ -27,8 +28,13 @@
         - [展示控件](https://misshop.github.io/www/MisShop快速入门教程/3-6-2-页面控件-—-展示类)
         - [容器控件](https://misshop.github.io/www/MisShop快速入门教程/3-6-3-页面控件-—-容器类)
      - [样式配置](https://misshop.github.io/www/MisShop快速入门教程/3-7-样式配置)
+        - []
+        - []
      - 页面布局
         - [页面布局设计原则](https://misshop.github.io/www/MisShop快速入门教程/附8-页面布局设计原则概述)
+        - [弹性布局](https://misshop.github.io/www/MisShop学习/布局-弹性布局)
+        - [网格布局](https://misshop.github.io/www/MisShop学习/布局-网格布局)
+        - [表格布局](https://misshop.github.io/www/MisShop学习/布局-表格布局)
   - 公式与函数
      - [常用概念说明](https://misshop.github.io/www/MisShop快速入门教程/附1-常用概念说明)
      - 公式
