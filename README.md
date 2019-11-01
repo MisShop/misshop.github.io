@@ -8,7 +8,7 @@
   - [平台安装](https://misshop.github.io/www/MisShop快速入门教程/1-2-平台安装与初步使用)
   - [界面元素](https://misshop.github.io/www/MisShop快速入门教程/1-3-界面元素)
   - 数据库
-   - [数据库概述]
+     - [数据库概述]
   - [1-2-平台安装与初步使用]
 - MisShop学习
 - MisShop详细开发指南
