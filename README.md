@@ -12,6 +12,10 @@
      - [数据库设计基本知识](https://misshop.github.io/www/MisShop快速入门教程/附9-数据库设计基本知识)
      - [数据表设计](https://misshop.github.io/www/MisShop快速入门教程/2-2-数据表设计)
      - [表之间的关系](https://misshop.github.io/www/MisShop快速入门教程/2-3-表之间的关系)
+     - [已有数据库匹配](https://misshop.github.io/www/MisShop学习/MisShop与已有数据库匹配问题)
+     - [使用MySQL数据库配置说明](https://misshop.github.io/www/MisShop部署相关/MisShop项目使用mysql数据库配置说明)
+     - [使用Oracle数据库配置说明](https://misshop.github.io/www/MisShop部署相关/MisShop项目使用oracle数据库配置说明)
+     - [使用SqlServer数据库配置说明](https://misshop.github.io/www/MisShop部署相关/MisShop项目使用sqlserver数据库配置说明)
   - 页面
      - [页面概述](https://misshop.github.io/www/MisShop快速入门教程/3-1-页面概述)
      - [基础功能](https://misshop.github.io/www/MisShop快速入门教程/1-4-基础功能)
@@ -30,7 +34,7 @@
      - 公式
      - [常用公式与函数](https://misshop.github.io/www/MisShop快速入门教程/3-5-公式与函数)
      - [日期对象函数](https://misshop.github.io/www/MisShop快速入门教程/3-5-1-公式与函数-—-日期对象)
-  - 常见错误
+  - [常见错误](https://misshop.github.io/www/MisShop快速入门教程/附4-常见错误)
 - MisShop部署相关
   - [Misshop部署微信支付](https://misshop.github.io/www/MisShop部署相关/Misshop部署微信支付)
 - MisShop杂谈
