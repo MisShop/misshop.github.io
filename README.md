@@ -9,6 +9,7 @@
   - [界面元素](https://misshop.github.io/www/MisShop快速入门教程/1-3-界面元素)
   - 数据库
      - [数据库概述](https://misshop.github.io/www/MisShop快速入门教程/2-1-数据库概述)
+     - [数据库设计基本知识](https://misshop.github.io/www/MisShop快速入门教程/附9-数据库设计基本知识)
      - [数据表设计](https://misshop.github.io/www/MisShop快速入门教程/2-2-数据表设计)
      - [表之间的关系](https://misshop.github.io/www/MisShop快速入门教程/2-3-表之间的关系)
   - 页面
