@@ -7,8 +7,9 @@
   
 - MisShop使用教程
   - [平台安装](https://misshop.github.io/www/MisShop快速入门教程/1-2-平台安装与初步使用)
+     - [用MisShop三步完成管理软件页面开发](https://misshop.github.io/www/MisShop学习/用MisShop三步完成管理软件页面开发)
   - [界面元素](https://misshop.github.io/www/MisShop快速入门教程/1-3-界面元素)
-  
+     - [设计器中设置级别](https://misshop.github.io/www/MisShop学习/MisShop设计器中设置级别)
   - 数据库
      - [数据库概述](https://misshop.github.io/www/MisShop快速入门教程/2-1-数据库概述)
      - [数据库设计基本知识](https://misshop.github.io/www/MisShop快速入门教程/附9-数据库设计基本知识)
@@ -25,6 +26,7 @@
      - [基础功能](https://misshop.github.io/www/MisShop快速入门教程/1-4-基础功能)
         - [页面浏览途径](https://misshop.github.io/www/MisShop学习/MisShop页面浏览途径)
      - [页面设置](https://misshop.github.io/www/MisShop学习/页面设置)
+        - [权限管理](https://misshop.github.io/www/MisShop学习/权限管理----功能权限)
      - [列表页面设计举例](https://misshop.github.io/www/MisShop快速入门教程/3-2-列表页面设计举例)
      - [页面数据](https://misshop.github.io/www/MisShop快速入门教程/3-3-页面数据)
         - [List：MisShop前端数组封装](https://misshop.github.io/www/MisShop学习/List：Misshop前端的数组封装)
@@ -33,17 +35,21 @@
         - [数据保存--条件保存、乐观锁、联合主键、数据库增量](https://misshop.github.io/www/MisShop学习/数据保存---条件保存，乐观锁，联合主键，数据库增量，后端计算)
         - [数据保存--服务器端计算](https://misshop.github.io/www/MisShop学习/数据保存（三）----服务器端计算)
         - [数据输入格式](https://misshop.github.io/www/MisShop学习/数据输入格式)
+        - [列表中展示子表信息](https://misshop.github.io/www/MisShop学习/列表中展示子表信息)
         - [主子表、折叠与展开、添加行、删除行](https://misshop.github.io/www/MisShop学习/主子表---控件-折叠和展开-添加行-删除行)
         - [字段校验](https://misshop.github.io/www/MisShop学习/字段校验)
         - [字段类型和输入控件](https://misshop.github.io/www/MisShop学习/字段类型和输入控件)
         - [变量集的用法](https://misshop.github.io/www/MisShop学习/变量集的用法)
         - [数组变量集的用法](https://misshop.github.io/www/MisShop学习/数组变量集的用法)
+        - [参数指定表单初值](https://misshop.github.io/www/MisShop学习/特殊参数---参数指定表单初值)
+        - [参数指定额外筛选条件](https://misshop.github.io/www/MisShop学习/特殊参数---参数指定额外筛选条件)
         - [参数传递](https://misshop.github.io/www/MisShop快速入门教程/4-1-开发技巧：参数传递)
         - [主子表保存](https://misshop.github.io/www/MisShop快速入门教程/4-2-开发技巧：主子表保存)
         - [更新属性](https://misshop.github.io/www/MisShop快速入门教程/4-4-开发技巧：更新属性)
         - [子页面更新父页面](https://misshop.github.io/www/MisShop快速入门教程/4-3-开发技巧：子页面更新父页面)
         - [前端动态效果-dynamic](https://misshop.github.io/www/MisShop学习/前端动态效果---dynamic)
         - [前端变量集](https://misshop.github.io/www/MisShop学习/前端动态效果---前端变量)
+        - [给其他应用提供数据和统计数据](https://misshop.github.io/www/MisShop学习/数据页面---给其他应用提供数据和统计等复杂数据)
      - [页面单元格](https://misshop.github.io/www/MisShop快速入门教程/3-4-页面单元格)
         - [设置单元格显示效果](https://misshop.github.io/www/MisShop学习/设置单元格显示效果) 
         - [单元格条件样式](https://misshop.github.io/www/MisShop学习/条件样式-单元格属性) 
@@ -83,7 +89,7 @@
      - [常用公式与函数](https://misshop.github.io/www/MisShop快速入门教程/3-5-公式与函数)
      - [日期对象函数](https://misshop.github.io/www/MisShop快速入门教程/3-5-1-公式与函数-—-日期对象)
      
-  - [常见错误](https://misshop.github.io/www/MisShop快速入门教程/附4-常见错误)
+  
   
 - 模板
   - [模板开发](https://misshop.github.io/www/MisShop快速入门教程/4-7-开发技巧：模板开发)
@@ -106,5 +112,10 @@
      - [部署微信支付](https://misshop.github.io/www/MisShop部署相关/Misshop部署微信支付)
      - [配置微信公众号](https://misshop.github.io/www/MisShop部署相关/Misshop配置微信公众号服务号)
      - [微信公众号访问说明](https://misshop.github.io/www/MisShop学习/微信公众号页面访问说明)
+  - 附录
+     - [新流程模板使用说明](https://misshop.github.io/www/MisShop快速入门教程/附6-新的流程模板使用说明)
+     - [教程中提到的公式](https://misshop.github.io/www/MisShop快速入门教程/附3-教程中主要用到的公式)
+     - [前后端网站的数据对接](https://misshop.github.io/www/MisShop快速入门教程/附7-前后端网站的数据对接)
+     - [常见错误](https://misshop.github.io/www/MisShop快速入门教程/附4-常见错误)
 
 - MisShop杂谈
