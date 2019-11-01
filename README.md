@@ -21,6 +21,9 @@
         - [常用控件](https://misshop.github.io/www/MisShop快速入门教程/3-6-1-页面控件-—-常用)
         - [展示控件](https://misshop.github.io/www/MisShop快速入门教程/3-6-2-页面控件-—-展示类)
         - [容器控件](https://misshop.github.io/www/MisShop快速入门教程/3-6-3-页面控件-—-容器类)
+     - [样式配置](https://misshop.github.io/www/MisShop快速入门教程/3-7-样式配置)
+     - 页面布局
+        - [页面布局设计原则](https://misshop.github.io/www/MisShop快速入门教程/附8-页面布局设计原则概述)
   - 公式与函数
      - [常用概念说明](https://misshop.github.io/www/MisShop快速入门教程/附1-常用概念说明)
      - [常用公式与函数](https://misshop.github.io/www/MisShop快速入门教程/3-5-公式与函数)
