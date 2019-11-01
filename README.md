@@ -16,6 +16,7 @@
      - [使用MySQL数据库配置说明](https://misshop.github.io/www/MisShop部署相关/MisShop项目使用mysql数据库配置说明)
      - [使用Oracle数据库配置说明](https://misshop.github.io/www/MisShop部署相关/MisShop项目使用oracle数据库配置说明)
      - [使用SqlServer数据库配置说明](https://misshop.github.io/www/MisShop部署相关/MisShop项目使用sqlserver数据库配置说明)
+     - [默认树配置](https://misshop.github.io/www/MisShop快速入门教程/4-10-开发技巧：默认树配置)     
   - 页面
      - [页面概述](https://misshop.github.io/www/MisShop快速入门教程/3-1-页面概述)
      - [基础功能](https://misshop.github.io/www/MisShop快速入门教程/1-4-基础功能)
@@ -30,7 +31,7 @@
         - [数据输入格式](https://misshop.github.io/www/MisShop学习/数据输入格式)
      - [页面单元格](https://misshop.github.io/www/MisShop快速入门教程/3-4-页面单元格)
         - [设置单元格显示效果](https://misshop.github.io/www/MisShop学习/设置单元格显示效果)
-     - 页面控件
+     - [页面控件](https://misshop.github.io/www/MisShop快速入门教程/3-6-页面控件)
         - [常用控件](https://misshop.github.io/www/MisShop快速入门教程/3-6-1-页面控件-—-常用)
         - [展示控件](https://misshop.github.io/www/MisShop快速入门教程/3-6-2-页面控件-—-展示类)
         - [容器控件](https://misshop.github.io/www/MisShop快速入门教程/3-6-3-页面控件-—-容器类)
