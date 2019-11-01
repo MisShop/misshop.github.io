@@ -17,7 +17,10 @@
      - [列表页面设计举例](https://misshop.github.io/www/MisShop快速入门教程/3-2-列表页面设计举例)
      - [页面数据](https://misshop.github.io/www/MisShop快速入门教程/3-3-页面数据)
      - [页面单元格](https://misshop.github.io/www/MisShop快速入门教程/3-4-4页面单元格)
-     - [公示与函数](https://misshop.github.io/www/MisShop快速入门教程/3-5-公式与函数)
+     - [公示与函数]
+        - [常用概念说明](https://misshop.github.io/www/MisShop快速入门教程/附1-常用概念说明)
+        - [常用公式与函数](https://misshop.github.io/www/MisShop快速入门教程/3-5-公式与函数)
+        - [日期对象函数](https://misshop.github.io/www/MisShop快速入门教程/3-5-1-公式与函数-—-日期对象)
 - MisShop学习
 - MisShop详细开发指南
 - MisShop-样式FAQ
