@@ -8,8 +8,16 @@
   - [平台安装](https://misshop.github.io/www/MisShop快速入门教程/1-2-平台安装与初步使用)
   - [界面元素](https://misshop.github.io/www/MisShop快速入门教程/1-3-界面元素)
   - 数据库
-     - [数据库概述]
-  - [1-2-平台安装与初步使用]
+     - [数据库概述](https://misshop.github.io/www/MisShop快速入门教程/2-1-数据库概述)
+     - [数据表设计](https://misshop.github.io/www/MisShop快速入门教程/2-2-数据表设计)
+     - [表之间的关系](https://misshop.github.io/www/MisShop快速入门教程/2-3-表之间的关系)
+  - 页面
+     - [页面概述]
+     - [基础功能]
+     - [列表页面设计举例]
+     - [页面数据]
+     - [页面单元格]
+     - [公示与函数]
 - MisShop学习
 - MisShop详细开发指南
 - MisShop-样式FAQ
