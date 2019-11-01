@@ -24,7 +24,7 @@
      - [页面数据](https://misshop.github.io/www/MisShop快速入门教程/3-3-页面数据)
         - [List：MisShop前端数组封装](https://misshop.github.io/www/MisShop学习/List：Misshop前端的数组封装)
         - [Map: MisShop前端键值对(哈希表)封装](https://misshop.github.io/www/MisShop学习/Map：Misshop前端的键值对(哈希表)封装)
-        - [数据保存--初值保存到不同表中](https://misshop.github.io/www/MisShop学习/数据保存(一）---初值和保存到不同的表中)
+        - [数据保存--初值保存到不同表中](https://misshop.github.io/www/MisShop学习/数据保存(一)---初值和保存到不同的表中)
         - [数据保存--条件保存、乐观锁、联合主键、数据库增量]
         - [数据保存--服务器端计算](https://misshop.github.io/www/MisShop学习/数据保存（三）----服务器端计算)
         - [数据输入格式](https://misshop.github.io/www/MisShop学习/数据输入格式)
