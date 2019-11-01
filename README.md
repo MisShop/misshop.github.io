@@ -4,7 +4,7 @@
   - [MisShop理念定位](https://misshop.github.io/www/MisShop快速入门教程/1-1-平台概述)
   - MisShop发展历程
   - MisShop应用场景
-- MisShop快速入门
+- MisShop使用教程
   - [平台安装](https://misshop.github.io/www/MisShop快速入门教程/1-2-平台安装与初步使用)
   - [界面元素](https://misshop.github.io/www/MisShop快速入门教程/1-3-界面元素)
   - 数据库
@@ -27,11 +27,10 @@
         - [页面布局设计原则](https://misshop.github.io/www/MisShop快速入门教程/附8-页面布局设计原则概述)
   - 公式与函数
      - [常用概念说明](https://misshop.github.io/www/MisShop快速入门教程/附1-常用概念说明)
+     - 公式
      - [常用公式与函数](https://misshop.github.io/www/MisShop快速入门教程/3-5-公式与函数)
      - [日期对象函数](https://misshop.github.io/www/MisShop快速入门教程/3-5-1-公式与函数-—-日期对象)
-- MisShop学习
-- MisShop详细开发指南
-- MisShop-样式FAQ
+  - 常见错误
 - MisShop部署相关
   - [Misshop部署微信支付](https://misshop.github.io/www/MisShop部署相关/Misshop部署微信支付)
 - MisShop杂谈
