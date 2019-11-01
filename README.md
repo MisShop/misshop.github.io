@@ -19,10 +19,11 @@
      - [使用Oracle数据库配置说明](https://misshop.github.io/www/MisShop部署相关/MisShop项目使用oracle数据库配置说明)
      - [使用SqlServer数据库配置说明](https://misshop.github.io/www/MisShop部署相关/MisShop项目使用sqlserver数据库配置说明)
      - [默认树配置](https://misshop.github.io/www/MisShop快速入门教程/4-10-开发技巧：默认树配置)  
-     
+
   - 页面
      - [页面概述](https://misshop.github.io/www/MisShop快速入门教程/3-1-页面概述)
      - [基础功能](https://misshop.github.io/www/MisShop快速入门教程/1-4-基础功能)
+        - [页面浏览途径](https://misshop.github.io/www/MisShop学习/MisShop页面浏览途径)
      - [页面设置](https://misshop.github.io/www/MisShop学习/页面设置)
      - [列表页面设计举例](https://misshop.github.io/www/MisShop快速入门教程/3-2-列表页面设计举例)
      - [页面数据](https://misshop.github.io/www/MisShop快速入门教程/3-3-页面数据)
@@ -32,28 +33,53 @@
         - [数据保存--条件保存、乐观锁、联合主键、数据库增量](https://misshop.github.io/www/MisShop学习/数据保存---条件保存，乐观锁，联合主键，数据库增量，后端计算)
         - [数据保存--服务器端计算](https://misshop.github.io/www/MisShop学习/数据保存（三）----服务器端计算)
         - [数据输入格式](https://misshop.github.io/www/MisShop学习/数据输入格式)
+        - [主子表、折叠与展开、添加行、删除行](https://misshop.github.io/www/MisShop学习/主子表---控件-折叠和展开-添加行-删除行)
+        - [字段校验](https://misshop.github.io/www/MisShop学习/字段校验)
+        - [字段类型和输入控件](https://misshop.github.io/www/MisShop学习/字段类型和输入控件)
+        - [变量集的用法](https://misshop.github.io/www/MisShop学习/变量集的用法)
+        - [数组变量集的用法](https://misshop.github.io/www/MisShop学习/数组变量集的用法)
+        - [参数传递](https://misshop.github.io/www/MisShop快速入门教程/4-1-开发技巧：参数传递)
+        - [主子表保存](https://misshop.github.io/www/MisShop快速入门教程/4-2-开发技巧：主子表保存)
+        - [更新属性](https://misshop.github.io/www/MisShop快速入门教程/4-4-开发技巧：更新属性)
+        - [子页面更新父页面](https://misshop.github.io/www/MisShop快速入门教程/4-3-开发技巧：子页面更新父页面)
+        - [前端动态效果-dynamic](https://misshop.github.io/www/MisShop学习/前端动态效果---dynamic)
+        - [前端变量集](https://misshop.github.io/www/MisShop学习/前端动态效果---前端变量)
      - [页面单元格](https://misshop.github.io/www/MisShop快速入门教程/3-4-页面单元格)
         - [设置单元格显示效果](https://misshop.github.io/www/MisShop学习/设置单元格显示效果) 
+        - [单元格条件样式](https://misshop.github.io/www/MisShop学习/条件样式-单元格属性) 
      - [页面控件](https://misshop.github.io/www/MisShop快速入门教程/3-6-页面控件)
+        - [控件与盒模型](https://misshop.github.io/www/MisShop学习/MisShop控件与盒模型)
         - [常用控件](https://misshop.github.io/www/MisShop快速入门教程/3-6-1-页面控件-—-常用)
         - [展示控件](https://misshop.github.io/www/MisShop快速入门教程/3-6-2-页面控件-—-展示类)
         - [容器控件](https://misshop.github.io/www/MisShop快速入门教程/3-6-3-页面控件-—-容器类)
+        - [下拉树](https://misshop.github.io/www/MisShop学习/页面控件-下拉树)
+        - [按钮组](https://misshop.github.io/www/MisShop学习/页面控件-按钮组)
+        - [立即执行](https://misshop.github.io/www/MisShop快速入门教程/4-9-开发技巧：立即执行)
+        - [统计图使用](https://misshop.github.io/www/MisShop学习/MisShop统计图用法)
+        - [打印页面](https://misshop.github.io/www/MisShop学习/打印页面技巧：表格的列宽严格遵循设计器里定义的宽度)
      - [样式配置](https://misshop.github.io/www/MisShop快速入门教程/3-7-样式配置)
         - [静态样式](https://misshop.github.io/www/MisShop学习/静态样式)
         - [自定义样式](https://misshop.github.io/www/MisShop学习/自定义样式)
         - [居中效果实现](https://misshop.github.io/www/Misshop-样式FAQ/MisShop居中效果实现技巧)
         - [图片居中配置](https://misshop.github.io/www/Misshop-样式FAQ/图片居中配置技巧)
         - [文字竖排](https://misshop.github.io/www/Misshop-样式FAQ/文字竖排)
-     - 页面布局
+     - [页面布局](https://misshop.github.io/www/MisShop快速入门教程/3-8-页面布局)
         - [页面布局设计原则](https://misshop.github.io/www/MisShop快速入门教程/附8-页面布局设计原则概述)
-        - [页面布局](https://misshop.github.io/www/MisShop快速入门教程/3-8-页面布局)
         - [弹性布局](https://misshop.github.io/www/MisShop学习/布局-弹性布局)
         - [网格布局](https://misshop.github.io/www/MisShop学习/布局-网格布局)
         - [表格布局](https://misshop.github.io/www/MisShop学习/布局-表格布局)
+      - 页面动作
+        - [查询](https://misshop.github.io/www/MisShop学习/页面动作---查询)
+        - [复杂查询](https://misshop.github.io/www/MisShop快速入门教程/5-1-开发技巧-查询函数Query的使用)
+        - [立即查询](https://misshop.github.io/www/MisShop快速入门教程/4-5-开发技巧：立即查询)
         
   - 公式与函数
+     - [表达式函数分类](https://misshop.github.io/www/MisShop学习/表达式函数分类)
      - [常用概念说明](https://misshop.github.io/www/MisShop快速入门教程/附1-常用概念说明)
-     - 公式
+     - [公式](https://misshop.github.io/www/MisShop学习/公式)
+        - [对象公式(日期)](https://misshop.github.io/www/MisShop学习/公式---对象公式（日期）)
+        - [数据引用关联列](https://misshop.github.io/www/MisShop学习/公式---数据引用关联列)
+        - [数据引用和数据筛选](https://misshop.github.io/www/MisShop学习/公式---数据引用和数据筛选)
      - [常用公式与函数](https://misshop.github.io/www/MisShop快速入门教程/3-5-公式与函数)
      - [日期对象函数](https://misshop.github.io/www/MisShop快速入门教程/3-5-1-公式与函数-—-日期对象)
      
@@ -79,5 +105,6 @@
   - 微信部署相关
      - [部署微信支付](https://misshop.github.io/www/MisShop部署相关/Misshop部署微信支付)
      - [配置微信公众号](https://misshop.github.io/www/MisShop部署相关/Misshop配置微信公众号服务号)
+     - [微信公众号访问说明](https://misshop.github.io/www/MisShop学习/微信公众号页面访问说明)
 
 - MisShop杂谈
