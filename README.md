@@ -49,5 +49,13 @@
      - [日期对象函数](https://misshop.github.io/www/MisShop快速入门教程/3-5-1-公式与函数-—-日期对象)
   - [常见错误](https://misshop.github.io/www/MisShop快速入门教程/附4-常见错误)
 - MisShop部署相关
-  - [Misshop部署微信支付](https://misshop.github.io/www/MisShop部署相关/Misshop部署微信支付)
+  - 应用版本更新
+     - [MisShop应用的更新与迭代](https://misshop.github.io/www/MisShop部署相关/MisShop应用更新迭代)
+     - [旧项目升级MisShop应用版本](https://misshop.github.io/www/MisShop部署相关/旧项目升级MisShop版本)
+  - 应用的环境搭建
+     - [Eclipse搭建MisShop二次开发环境](https://misshop.github.io/www/MisShop部署相关/用Eclipse搭建MisShop二次开发环境)
+     - [Tomcat-7 部署MisShop开发项目](https://misshop.github.io/www/MisShop部署相关/用Tomcat-7部署Misshop开发的项目(Windows))
+  - 微信部署相关
+     - [部署微信支付](https://misshop.github.io/www/MisShop部署相关/Misshop部署微信支付)
+     - [配置微信公众号](https://misshop.github.io/www/MisShop部署相关/Misshop配置微信公众号服务号)
 - MisShop杂谈
