@@ -22,8 +22,8 @@
      - [页面设置](https://misshop.github.io/www/MisShop学习/页面设置)
      - [列表页面设计举例](https://misshop.github.io/www/MisShop快速入门教程/3-2-列表页面设计举例)
      - [页面数据](https://misshop.github.io/www/MisShop快速入门教程/3-3-页面数据)
-     - [页面单元格](https://misshop.github.io/www/MisShop快速入门教程/3-4-4页面单元格)
-        - [设置单元格显示效果](https://misshop.github.io/www/MisShop快速入门教程/3-4-4页面单元格)
+     - [页面单元格](https://misshop.github.io/www/MisShop快速入门教程/3-4-页面单元格)
+        - [设置单元格显示效果](https://misshop.github.io/www/MisShop学习/设置单元格显示效果)
      - 页面控件
         - [常用控件](https://misshop.github.io/www/MisShop快速入门教程/3-6-1-页面控件-—-常用)
         - [展示控件](https://misshop.github.io/www/MisShop快速入门教程/3-6-2-页面控件-—-展示类)
