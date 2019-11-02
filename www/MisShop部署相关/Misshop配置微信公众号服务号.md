@@ -4,7 +4,7 @@
 ![image.png](https://upload-images.jianshu.io/upload_images/12920178-0d408f1653fbc2bd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![image.png](https://upload-images.jianshu.io/upload_images/12920178-a3096a296d15f3b4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![image](https://misshop.github.io/master/resources-副本/wiki-imgs/gongzhonghao-01.png)
+![image](https://misshop.github.io/resources-副本/wiki-imgs/gongzhonghao-01.png)
 
 3. 左侧菜单中：设置--公众号设置，进去后选择中间的标签“功能设置”，做出配置如下，注意不要加http://
 ![image.png](https://upload-images.jianshu.io/upload_images/12920178-32ec82c3b1a10153.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
