@@ -3,7 +3,8 @@ MisShop版本升级了，如果旧项目需要升级，那么会有什么影响�
 ***
 
 1.MisShop版本更新原则
-=============
+  
+  
 MisShop的版本更新，遵循向前兼容的原则，包括如下几项：
 
 * 控件，函数的更新
@@ -17,9 +18,11 @@ MisShop的版本更新，遵循向前兼容的原则，包括如下几项：
 
 ***
 2.MisShop版本更新的方法
-=============
+  
+  
 
-![MisShop安装目录](https://upload-images.jianshu.io/upload_images/12920178-154622c2f1799d74.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![images](http://www.misshop.com.cn/res/doc/jxmsj.png)    
+ 
 
 * 第一种方法：把MisShop安装到另一个目录里，在新版本MisShop使用成功之后，删除旧的MisShop。
 
@@ -29,7 +32,8 @@ MisShop的版本更新，遵循向前兼容的原则，包括如下几项：
 
 ***
 3.对旧项目的影响
-=============
+  
+  
 刚才我们看到，新功能，新函数，新控件对就项目都几乎没有影响，那么升级MisShop可能会影响什么呢？
 
 * 系统表发生了变化。
