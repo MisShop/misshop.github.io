@@ -43,7 +43,3 @@ ini文件里必须包含这三个键accessToken, mchId还有apiKey，以及对�
 
 ![images](http://www.misshop.com.cn/res/doc/BSWX8.png)
 这里的订单号需要保证唯一性，另外金额是以分为单位的，所以通常需要乘以100。
-8. 支付成功之后的订单状态回置
-![image.png](https://upload-images.jianshu.io/upload_images/12920178-7dca112203d0c4df.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-在这个页面配置回调页面，这个页面必须是一个具有保存按钮的订单状态修改raq, 这个页面接收两个参数orderid和wxopenid,分别代表订单号和购买者的微信ID，微信支付成功后，系统接收到微信支付平台的支付成功通知并自动保存这个回调页面，从而实现订单状态的更新。
