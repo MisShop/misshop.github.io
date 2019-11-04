@@ -1,7 +1,7 @@
 Misshop支持在微信公众号里进行微信支付。
 首先微信公众号需要是服务号而不是订阅号，同时需要已完成企业认证（https://mp.weixin.qq.com）； 然后需要
 1. 开通微信支付, （建议用微信公众号的超级管理员）登录公众号后，点击左侧微信支付菜单：
-(http://www.misshop.com.cn/res/doc/BSWX1.png)
+![images](http://www.misshop.com.cn/res/doc/BSWX1.png)
 按照步骤接入微信支付后，在https://pay.weixin.qq.com网站上就建立了微信商户账号，而刚才这个登录微信公众号的微信账号就成为了微信商户账号的超级管理员。开通过程需要审核，时间大于1天。
 2. 关联微信公众号和微信支付账号：
 查看如图的页面：
