@@ -5,9 +5,9 @@
 =============
 
 创建客户表
-切换到数据表视图，点击创建表，输入表名“客户”，然后添加表中字段。
-> ![客户表](https://upload-images.jianshu.io/upload_images/12920178-0c5e89d991bddadd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+切换到数据表视图，点击创建表，输入表名“客户”，然后添加表中字段。  
+ ![images](http://www.misshop.com.cn/res/doc/dsf1.png)   
+ 
 如上图所示：字段的数据类型（文字，日期，图片...），验证类型（手机号，网址）等细节信息由平台 **智能生成** ，分分钟就完成客户表的建立。（如果必要，细节也可以手动修改。） 
 
 ***
@@ -17,18 +17,17 @@
 * 点击添加页面按钮，输入页面名称 **客户管理页面**。
 * 选择 *数据表*  **客户**。
 * 需求是管理页面，那就从一堆系统 *模板* 中选择  **简单列表** 。
-* 点击 “确定” 生成客户管理页面
->![客户管理页面.raq](https://upload-images.jianshu.io/upload_images/12920178-4ae904612f881871.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+* 点击 “确定” 生成客户管理页面  
+ ![images](http://www.misshop.com.cn/res/doc/dsf2.png)     
+ 
 
-
-点击 “预览” 可以在浏览器看到这个界面。
-
->![客户管理页面](https://upload-images.jianshu.io/upload_images/12920178-d5ba6922b4aa43d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+点击 “预览” 可以在浏览器看到这个界面。  
+ ![images](http://www.misshop.com.cn/res/doc/dsf3.png)     
+ 
 是一个完整的客户管理页面，可以实现增删改查，导入导出等操作，下图是 “新增” 弹出的窗口
-
->![新增客户](https://upload-images.jianshu.io/upload_images/12920178-44c18ebae08fe895.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+  
+   ![images](http://www.misshop.com.cn/res/doc/dsf4.png)     
+   
 
 有合适的模板，就能直接生成一个大体满足需求的页面。那么模板是否足够丰富呢？
     MisShop 提供了列表，简单列表，主子编辑,分组列表,分组详情等种种模板，但面对千变万化的需求，只是沧海一粟。 但MisShop平台里，做模板本质上就是做页面，所以学会了如何像做Excel一样开发页面，就能 **DIY**模板了。
@@ -41,9 +40,9 @@
 
 MisShop的修改最重要的也是修改单元格值的公式，公式用“=” 打头表示。输入公式时，输入“.”后，系统会自动进行字段和函数的提示。
 
->除了鼠标单击选择外，推荐继续输入字母缩小范围，然后用上下箭头加回车搞定，如下图所示 。
->![无需记忆，极速输入的公式提示](https://upload-images.jianshu.io/upload_images/12920178-426e4f22d9b2682a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+>除了鼠标单击选择外，推荐继续输入字母缩小范围，然后用上下箭头加回车搞定，如下图所示 。  
+ ![images](http://www.misshop.com.cn/res/doc/dsf5.png)     
+ 
 ***
 * 需求：列表中去掉 *字段*  **身份证** 和 **生日** ，改为 **提交时间**。
 >合并单元格 F4 和 G4 ,  值从 ```身份证``` 改为 ```提交时间```
@@ -66,10 +65,9 @@ MisShop的修改最重要的也是修改单元格值的公式，公式用“=”
 
 ***
 
-如下图所示：这种简单的字段和查询修改也是 **分分钟** 就搞定了
-
->![调整字段和查询项](https://upload-images.jianshu.io/upload_images/12920178-85dd84567ab22ab7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+如下图所示：这种简单的字段和查询修改也是 **分分钟** 就搞定了  
+ ![images](http://www.misshop.com.cn/res/doc/dsf6.png)     
+ 
 ***
 
 更复杂的需求是不是还是能 **分分钟** 搞定呢，接下来我们会介绍：
