@@ -20,6 +20,7 @@
      - [使用Oracle数据库配置说明](https://misshop.github.io/www/MisShop部署相关/MisShop项目使用oracle数据库配置说明)
      - [使用SqlServer数据库配置说明](https://misshop.github.io/www/MisShop部署相关/MisShop项目使用sqlserver数据库配置说明)
      - [默认树配置](https://misshop.github.io/www/MisShop快速入门教程/4-10-开发技巧：默认树配置)  
+	 - [外键使用--OO,OM,MM](https://misshop.github.io/www/MisShop学习/外键)
 
   - 页面
      - [页面概述](https://misshop.github.io/www/MisShop快速入门教程/3-1-页面概述)
