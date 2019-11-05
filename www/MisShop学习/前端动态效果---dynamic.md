@@ -5,10 +5,9 @@
 C1 格值为```=A1+B1``` 时，C1格的值将是A1和B1相加的结果。
 但如果A1是输入框，发生变化的时候，如何才能让A2跟着变化呢。
 
-例如C2只需要写为 ```= dynamic(A2)+B2``` 就可以实现A2变化，C2的值跟着变化的效果。
-
->![dynamic变化对比](https://upload-images.jianshu.io/upload_images/12920178-caf56f2821ce3bbf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
->第一排不是动态的，所以输入框里输入25，但结果没有变化，还是10.
+例如C2只需要写为 ```= dynamic(A2)+B2``` 就可以实现A2变化，C2的值跟着变化的效果。  
+ ![images](http://www.misshop.com.cn/res/doc/dyn1.png)   
+ >第一排不是动态的，所以输入框里输入25，但结果没有变化，还是10.
 >第二排是动态的，所以输入框里输入25，但结果就变成了35 (25+10).
 
 
@@ -21,14 +20,12 @@ C1 格值为```=A1+B1``` 时，C1格的值将是A1和B1相加的结果。
 *  页面属性中设置允许编辑。
 *  删除D4格，重新输入公式  ```=ds.性别``` （因为页面是可编辑页面，这样会重新生成性别的编辑控件）
 *  在B4的前景色属性公式中录入动态颜色公式：
-```ifv(dynamic(D4)==Dict.性别.男,-16777000,-16720356)```：如果D4值为 字典项男性（也就是1），那么是蓝色，否则是绿色）。
-
-
->![录入动态颜色公式](https://upload-images.jianshu.io/upload_images/12920178-dbad1eb9524a34a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-我们看一下运行效果
->![动态条件格式](https://upload-images.jianshu.io/upload_images/12920178-3b151ba13cd42815.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
->前两行改为女性,改动的同时，名称就变色了。
+```ifv(dynamic(D4)==Dict.性别.男,-16777000,-16720356)```：如果D4值为 字典项男性（也就是1），那么是蓝色，否则是绿色）。  
+ ![images](http://www.misshop.com.cn/res/doc/dyn2.png)   
+ 
+我们看一下运行效果  
+ ![images](http://www.misshop.com.cn/res/doc/dyn3.png)   
+ >前两行改为女性,改动的同时，名称就变色了。
 >后几行改为男性。
 
 
@@ -46,17 +43,16 @@ C1 格值为```=A1+B1``` 时，C1格的值将是A1和B1相加的结果。
 例如编辑页面中，希望部门是 业务部（id为1）的时候，相片和描述可见，其他时候不可见。
 那就可以在相片和描述所在格的可视属性里，填入```dynamic(it.部门)==1```即可。
 
-如果希望整行消失，那么在相片格子，鼠标右键，选中区域行，在行可视属性里，填入相同的公式即可。
->![行可视的配置](https://upload-images.jianshu.io/upload_images/12920178-67e698302238f125.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
->当部门不是业务部（id为1）的时候，相片和生日这一整行都将隐藏。
+如果希望整行消失，那么在相片格子，鼠标右键，选中区域行，在行可视属性里，填入相同的公式即可。   
+ ![images](http://www.misshop.com.cn/res/doc/dyn4.png)   
+ >当部门不是业务部（id为1）的时候，相片和生日这一整行都将隐藏。
 
 ***
 4.动态的单元格验证
 =============
-当然，静态的单元格验证根本没用。数据表视图里的验证，在编译的时候，会生成到格子里，和手动配置的单元格验证相同
-
-![手动添加单元格验证](https://upload-images.jianshu.io/upload_images/12920178-774420679c49e6c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
->```value()```：表示当前格的值。动态跟随改变。如果单元格是A1，那么value()和dynamic(A1)完全相同。
+当然，静态的单元格验证根本没用。数据表视图里的验证，在编译的时候，会生成到格子里，和手动配置的单元格验证相同  
+ ![images](http://www.misshop.com.cn/res/doc/dyn5.png)   
+ >```value()```：表示当前格的值。动态跟随改变。如果单元格是A1，那么value()和dynamic(A1)完全相同。
 >表达式：```Validate.长度校验(value(),0,255)```,0表示最短长度，255表示最大长度，可以修改，例如6，20.至少6，最大20.
 >出错提示：不满足表达式的时候，提示信息，可以是公式组成。
 >立即校验：是的话在单元格输入完成的时候就校验，否的话只在保存的时候校验。
