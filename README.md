@@ -124,5 +124,5 @@
 
 - MisShop杂谈
 
--MisShop开发技巧
+- MisShop开发技巧
 	- [说明文档](https://misshop.github.io/www/MisShop开发技巧/开发技巧)
