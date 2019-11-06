@@ -11,8 +11,8 @@ MisShop制作的软件系统最终都是以网页形式呈现给用户使用，�
 var map = window.Mis.Map.parse('{"name":"张三", "age":"18", "gendor": "女","tel":"13521345678","score":[100,80,90]}');
 ···
 -window.Mis.Map.createByCells(keys,values)
-这个函数用来将扩展前的单元格名对应的内容，组成扩展后的键值对。参数keys和values都是单元格的名字， 用户不大可能在Javascript环境中调用它，这个函数在生成页面内容的时候由系统自动调用，下面的截图中给出一个应用：
-![image.png](https://upload-images.jianshu.io/upload_images/12920178-e560106481ee6767.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+这个函数用来将扩展前的单元格名对应的内容，组成扩展后的键值对。参数keys和values都是单元格的名字， 用户不大可能在Javascript环境中调用它，这个函数在生成页面内容的时候由系统自动调用，下面的截图中给出一个应用：  
+![images](http://www.misshop.com.cn/res/doc/map1.png)    
 在上图中，A1其实是一个扩展，代表了多个用户名，B1也随之扩展代表了相对应的多个部门值；随后定义的键值对变量集则收集了这两列值并形成了对应的键值对列表。
 -window.Mis.Map.parseKVArr(keys,values)
 参数keys和values分别是键的数组和值的数组， 函数调用后按次序形成一个键值对列表并返回。

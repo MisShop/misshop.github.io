@@ -3,14 +3,14 @@
 更新包含两部分工作：数据库更新和应用更新。
 
 ***
-1.应用更新
-=============
+1.应用更新  
+
 
 应用更新非常简单：
 * 第一步：现有的project备份。
-* 第二步：将现有项目的data目录，以及db.ini,project.mis,run.info之外的文件，全都替换掉就可以了。
+* 第二步：将现有项目的data目录，以及db.ini,project.mis,run.info之外的文件，全都替换掉就可以了。  
+![images](http://www.misshop.com.cn/res/doc/dd1.png)  
 
-![项目文件](https://upload-images.jianshu.io/upload_images/12920178-740ee36f2d48a7f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ***
 2.常规数据库更新
@@ -20,8 +20,9 @@
 原则上，迭代开发时只能增加数据表，增加字段以及增加关联关系，而不应该去改变现有数据库的表名，字段名等。这种常规的数据库更新也非常简单。
 
 * 第一步：数据库更新前对数据库和附件（在项目的data目录里）做备份
-* 第二步：应用更新后，启动MisShop设计器。在数据视图中，点击上方菜单 **数据** -> **匹配数据表** 
-![匹配数据表界面](https://upload-images.jianshu.io/upload_images/12920178-4fe88a430061ff6e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+* 第二步：应用更新后，启动MisShop设计器。在数据视图中，点击上方菜单 **数据** -> **匹配数据表**   
+![images](http://www.misshop.com.cn/res/doc/dd2.png)  
+
 
 这个界面里会列出当前应用的数据表和数据库中的数据表的差异，点击 **补足列** ，可以自动把迭代开发中的数据表的变动在数据库中实现。
 

@@ -20,6 +20,8 @@
      - [使用Oracle数据库配置说明](https://misshop.github.io/www/MisShop部署相关/MisShop项目使用oracle数据库配置说明)
      - [使用SqlServer数据库配置说明](https://misshop.github.io/www/MisShop部署相关/MisShop项目使用sqlserver数据库配置说明)
      - [默认树配置](https://misshop.github.io/www/MisShop快速入门教程/4-10-开发技巧：默认树配置)  
+	 - [外键使用--OO,OM,MM](https://misshop.github.io/www/MisShop学习/外键)
+	 - [常用数据库连接工具](https://misshop.github.io/www/MisShop学习/MisShop常用数据库连接工具)
 
   - 页面
      - [页面概述](https://misshop.github.io/www/MisShop快速入门教程/3-1-页面概述)
@@ -63,6 +65,7 @@
         - [立即执行](https://misshop.github.io/www/MisShop快速入门教程/4-9-开发技巧：立即执行)
         - [统计图使用](https://misshop.github.io/www/MisShop学习/MisShop统计图用法)
         - [打印页面](https://misshop.github.io/www/MisShop学习/打印页面技巧：表格的列宽严格遵循设计器里定义的宽度)
+		- [树控件](https://misshop.github.io/www/MisShop学习/树控件)
      - [样式配置](https://misshop.github.io/www/MisShop快速入门教程/3-7-样式配置)
         - [静态样式](https://misshop.github.io/www/MisShop学习/静态样式)
         - [自定义样式](https://misshop.github.io/www/MisShop学习/自定义样式)
@@ -98,7 +101,7 @@
 - 流程
   - [流程开发](https://misshop.github.io/www/MisShop快速入门教程/4-6-开发技巧：流程开发)
   - [流程页面配置](https://misshop.github.io/www/MisShop快速入门教程/4-6-1-开发技巧：流程开发—页面配置)
-  
+  - [流程开发进阶](https://misshop.github.io/www/MisShop学习/流程进阶使用)
 - MisShop部署相关
   - 应用版本更新
      - [MisShop应用的更新与迭代](https://misshop.github.io/www/MisShop部署相关/MisShop应用更新迭代)
