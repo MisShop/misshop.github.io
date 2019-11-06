@@ -122,3 +122,5 @@
      - [常见错误](https://misshop.github.io/www/MisShop快速入门教程/附4-常见错误)
 
 - MisShop杂谈
+
+-[MisShop开发技巧](https://misshop.github.io/www/MisShop开发技巧/开发技巧)
