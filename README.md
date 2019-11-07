@@ -73,7 +73,7 @@
         - [居中效果实现](https://misshop.github.io/www/Misshop-样式FAQ/MisShop居中效果实现技巧)
         - [图片居中配置](https://misshop.github.io/www/Misshop-样式FAQ/图片居中配置技巧)
         - [文字竖排](https://misshop.github.io/www/Misshop-样式FAQ/文字竖排)
-		- [打印分页实现](https://misshop.github.io/www/Misshop-样式FAQ/打印分页)
+		- [打印分页实现](https://misshop.github.io/www/Misshop-样式FAQ/打印分页1)
      - [页面布局](https://misshop.github.io/www/MisShop快速入门教程/3-8-页面布局)
         - [页面布局设计原则](https://misshop.github.io/www/MisShop快速入门教程/附8-页面布局设计原则概述)
         - [弹性布局](https://misshop.github.io/www/MisShop学习/布局-弹性布局)
