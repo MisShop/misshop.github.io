@@ -7,24 +7,24 @@
 
 定义方法：
 1、首先使用MisShop新建一个页面，而这个页面的内容就是需要的某一局部的效果。
-如：带下虚线的卡片，设计器页面及浏览器展示效果为: 
+如：带下虚线的卡片，设计器页面及浏览器展示效果为:  
   ![images](http://www.misshop.com.cn/res/doc/zdyywzj1.png)
-  ![images](http://www.misshop.com.cn/res/doc/zdyywzj2.png)
-2、添加控件定义：D:\MisShop\WebRoot\WEB-INF\classes\designer\widgets 
-  ![images](http://www.misshop.com.cn/res/doc/zdyywzj3.png)
+  ![images](http://www.misshop.com.cn/res/doc/zdyywzj2.png)  
+2、添加控件定义：D:\MisShop\WebRoot\WEB-INF\classes\designer\widgets  
+  ![images](http://www.misshop.com.cn/res/doc/zdyywzj3.png)  
 创建或放到已有的控件组：reportgroup
 添加控件定义：cardwithbottomdot.txt，内容可以参考：businessgroup\imagetitle.tx
 修改其中的widgetDisplayName
-另外：可以在此文件夹中，添加一个同名的.png效果截图，作为控件拖拽界面的配图
-  ![images](http://www.misshop.com.cn/res/doc/zdyywzj4.png)
+另外：可以在此文件夹中，添加一个同名的.png效果截图，作为控件拖拽界面的配图  
+  ![images](http://www.misshop.com.cn/res/doc/zdyywzj4.png)  
 3、添加控件控件模板.raq：
-在此文件夹中，创建同名文件夹：cardwithbottomdot
-  ![images](http://www.misshop.com.cn/res/doc/zdyywzj5.png)
-将做好的raq文件放到此文件夹中，并配一个同名的.png效果截图
-  ![images](http://www.misshop.com.cn/res/doc/zdyywzj6.png)
-4、刷新项目，此时在控件拖拽界面就能看到这个控件，就可以在任意一个页面的单元格中，拖拽此控件，生成这种业务效果了
-  ![images](http://www.misshop.com.cn/res/doc/zdyywzj7.png)
-  ![images](http://www.misshop.com.cn/res/doc/zdyywzj8.png)
-示例：
-  ![images](http://www.misshop.com.cn/res/doc/zdyywzj9.png)
+在此文件夹中，创建同名文件夹：cardwithbottomdot  
+  ![images](http://www.misshop.com.cn/res/doc/zdyywzj5.png)  
+将做好的raq文件放到此文件夹中，并配一个同名的.png效果截图  
+  ![images](http://www.misshop.com.cn/res/doc/zdyywzj6.png)  
+4、刷新项目，此时在控件拖拽界面就能看到这个控件，就可以在任意一个页面的单元格中，拖拽此控件，生成这种业务效果了  
+  ![images](http://www.misshop.com.cn/res/doc/zdyywzj7.png)  
+  ![images](http://www.misshop.com.cn/res/doc/zdyywzj8.png)  
+示例:  
+  ![images](http://www.misshop.com.cn/res/doc/zdyywzj9.png)  
 此页面就是由此控件拖拽+弹性布局容器生成的
