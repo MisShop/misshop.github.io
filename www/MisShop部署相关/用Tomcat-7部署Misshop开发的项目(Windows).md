@@ -25,7 +25,7 @@ MisShop默认使用tomcat7
 
 
 4、复制安装目录下的WebRoot到webapps下，如  
-![images](http://www.misshop.com.cn/res/doc/tomcat4_mishop1.png)    
+![images](http://www.misshop.com.cn/res/doc/tomcat7_mishop4.png)    
 
 
 
