@@ -1,32 +1,31 @@
 自定义业务组件
 
 使用场景：
-1、MisShop平台本身提供了区域、基本的布局容器、非常多的功能控件，页面可以使用区域+布局容器+功能控件来组织，搭配成需要的功能及显示效果。  
-
-2、而对于一个项目来讲，可能存在某一局部的显示效果，在多个页面中都会出现，这个局部的显示效果，MisShop也可以将其封装为组件，称其为业务组件。MisShop控件库中也提供一些这种业务组件。  
-
+1、MisShop平台本身提供了区域、基本的布局容器、非常多的功能控件，页面可以使用区域+布局容器+功能控件来组织，搭配成需要的功能及显示效果。
+2、而对于一个项目来讲，可能存在某一局部的显示效果，在多个页面中都会出现，这个局部的显示效果，MisShop也可以将其封装为组件，称其为业务组件。MisShop控件库中也提供一些这种业务组件。
 3、在实际使用MisShop开发的过程中，这些业务组件并不能满足需求，那么此时就可以自定义业务组件了。
 
 定义方法：
 1、首先使用MisShop新建一个页面，而这个页面的内容就是需要的某一局部的效果。
 如：带下虚线的卡片，设计器页面及浏览器展示效果为：
- 
+ ![images](http://www.misshop.com.cn/res/doc/zdyywzj1.png)
+ ![images](http://www.misshop.com.cn/res/doc/zdyywzj2.png)
 2、添加控件定义：D:\MisShop\WebRoot\WEB-INF\classes\designer\widgets
-
+ ![images](http://www.misshop.com.cn/res/doc/zdyywzj3.png)
 创建或放到已有的控件组：reportgroup
 添加控件定义：cardwithbottomdot.txt，内容可以参考：businessgroup\imagetitle.tx
 修改其中的widgetDisplayName
 另外：可以在此文件夹中，添加一个同名的.png效果截图，作为控件拖拽界面的配图
-
+ ![images](http://www.misshop.com.cn/res/doc/zdyywzj4.png)
 3、添加控件控件模板.raq：
 在此文件夹中，创建同名文件夹：cardwithbottomdot
-
+ ![images](http://www.misshop.com.cn/res/doc/zdyywzj5.png)
 将做好的raq文件放到此文件夹中，并配一个同名的.png效果截图
-
+ ![images](http://www.misshop.com.cn/res/doc/zdyywzj6.png)
 4、刷新项目，此时在控件拖拽界面就能看到这个控件，就可以在任意一个页面的单元格中，拖拽此控件，生成这种业务效果了
-
-
-
+ ![images](http://www.misshop.com.cn/res/doc/zdyywzj7.png)
+ ![images](http://www.misshop.com.cn/res/doc/zdyywzj8.png)
+ 
 示例：
-
+ ![images](http://www.misshop.com.cn/res/doc/zdyywzj9.png)
 此页面就是由此控件拖拽+弹性布局容器生成的
