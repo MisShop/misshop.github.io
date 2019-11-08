@@ -62,19 +62,11 @@ MisShop默认使用tomcat7
 ![images](http://www.misshop.com.cn/res/doc/tomcat7_mishop9.png)    
 
 
-
-10、如果启动时不同步数据库，或者禁止同步数据库，修改report4config.xml
-	在/webapps/misshop/WEB-INF/classes	/ report4config.xml
-	修改文件的<OPTIONS>标签的属性
-		设置：bCanSyncToDb="false" 禁止同步数据库
-			  bSyncWhenStart="false" 启动时不同步数据库  
-![images](http://www.misshop.com.cn/res/doc/tomcat7_mishop10.png)    
-
-
-
-11、启动：
+10、启动：
 	windows下：bin/startup.bat
-	linux下：bin/startup.sh
-12、浏览器上访问网址：
+	linux下：bin/startup.sh  
+	
+	
+11、浏览器上访问网址：
 	http://localhost/misshop
 
