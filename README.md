@@ -125,7 +125,8 @@
      - [常见错误](https://misshop.github.io/www/MisShop快速入门教程/附4-常见错误)
 
 - MisShop杂谈
-
+	 - [关于MisShop设计器图片以及图标更换](https://misshop.github.io/www/MisShop杂谈/MisShop图片以及标题替换)
+	 - [MisShop选型解惑](https://misshop.github.io/www/MisShop杂谈/MisShop选型解惑)
 - MisShop开发技巧
 	- 数据
 	- 页面
