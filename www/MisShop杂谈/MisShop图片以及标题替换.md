@@ -24,14 +24,15 @@
 	修改文件：project/project.mis
 	修改内容：修改projectName的值  
 	![images](http://www.misshop.com.cn/res/doc/tb5.png)   
-5、登录界面项目logo修改
+5、登录界面项目logo修改  
+    修改文件：修改project/res/system/logo.png图片      
+	![images](http://www.misshop.com.cn/res/doc/tb6.png)   
+	![images](http://www.misshop.com.cn/res/doc/tb7.png)     
+6、登录成功后的跳转等待图片修改：  
 
-	修改文件：修改project/res/system/logo.png图片  
-	![images](http://www.misshop.com.cn/res/doc/tb6.png)     
-	![images](http://www.misshop.com.cn/res/doc/tb7.png)   
-6、登录成功后的跳转等待图片修改：
-	修改文件：修改project/res/system/splash.开头的第一文件  
-	![images](http://www.misshop.com.cn/res/doc/tb8.png)   
+	修改文件：修改project/res/system/splash.开头的第一文件    
+  ![images](http://www.misshop.com.cn/res/doc/tb8.png)     
+  
  
 另注：
 	a、项目名称和项目logo，可在MisShop设计器-->菜单-->文件-->项目信息中配置
@@ -94,16 +95,15 @@
 	修改文件：WebRoot/WEB-INF/classes/ designer/logo/platform_tray.png    
 	
 18、MisShop.exe安装包定制内容（打包前提供对应替代图片及文件标识）：  
-![images](http://www.misshop.com.cn/res/doc/tb22.png)   
+![images](http://www.misshop.com.cn/res/doc/tb22.png)     
+MisShop设计器.exe及MisShop_3.5.4.exe安装包图标：\ico\icons.ico     
+![images](http://www.misshop.com.cn/res/doc/tb23.png)   
 
-	MisShop设计器.exe及MisShop_3.5.4.exe安装包图标：\ico\icons.ico  
-	![images](http://www.misshop.com.cn/res/doc/tb23.png) 
- 
-	MisShop设计器.exe启动界面：\launch.png  
-	![images](http://www.misshop.com.cn/res/doc/tb24.png) 
- 
-	MisShop项目启动器.exe图标：\ico\start.ico  
-	![images](http://www.misshop.com.cn/res/doc/tb25.png) 
+MisShop设计器.exe启动界面：\launch.png    
+![images](http://www.misshop.com.cn/res/doc/tb24.png)   
+MisShop项目启动器.exe图标：\ico\start.ico  
+![images](http://www.misshop.com.cn/res/doc/tb25.png)   
+
 
 MisShop项目启动器.exe启动界面：platform_launch.jpg  
 
