@@ -28,16 +28,13 @@
     修改文件：修改project/res/system/logo.png图片      
 	![images](http://www.misshop.com.cn/res/doc/tb6.png)   
 	![images](http://www.misshop.com.cn/res/doc/tb7.png)     
-6、登录成功后的跳转等待图片修改：  
-
-	修改文件：修改project/res/system/splash.开头的第一文件    
-  ![images](http://www.misshop.com.cn/res/doc/tb8.png)     
-  
- 
-另注：
-	a、项目名称和项目logo，可在MisShop设计器-->菜单-->文件-->项目信息中配置
-	b、项目名称和项目logo，同时应用到导航树的头部  
-	![images](http://www.misshop.com.cn/res/doc/tb9.png)   
+6、登录成功后的跳转等待图片修改：    
+修改文件：修改project/res/system/splash.开头的第一文件  
+![images](http://www.misshop.com.cn/res/doc/tb8.png)       
+另注：  
+a、项目名称和项目logo，可在MisShop设计器-->菜单-->文件-->项目信息中配置  
+b、项目名称和项目logo，同时应用到导航树的头部  
+![images](http://www.misshop.com.cn/res/doc/tb9.png)   
 	
 
  
