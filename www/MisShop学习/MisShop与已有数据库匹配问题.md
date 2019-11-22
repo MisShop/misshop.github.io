@@ -37,7 +37,7 @@ c、如果某一个表的添加列中，显示了此数据表的全部列（尤�
  
 d、点击补足列，补充所有表的所有添加列中标识的列。
 也可以去各个数据表中去单独补足列  
-  ![images](http://www.misshop.com.cn/res/doc/pp1.png)  
+  ![images](http://www.misshop.com.cn/res/doc/pp1.png)    
   
  
 e、点击导入列，导入所有表的所有缺少列中标识的列。
