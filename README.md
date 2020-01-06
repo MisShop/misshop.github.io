@@ -67,6 +67,7 @@
         - [统计图使用](https://misshop.github.io/www/MisShop学习/MisShop统计图用法)
         - [打印页面](https://misshop.github.io/www/MisShop学习/打印页面技巧：表格的列宽严格遵循设计器里定义的宽度)
 		- [树控件](https://misshop.github.io/www/MisShop学习/树控件)
+		- [标签组控件](https://misshop.github.io/www/MisShop学习/页面控件-标签组)
 		- [MisShop自定义业务组件](https://misshop.github.io/www/MisShop学习/MisShop自定义业务组件)
      - [样式配置](https://misshop.github.io/www/MisShop快速入门教程/3-7-样式配置)
         - [静态样式](https://misshop.github.io/www/MisShop学习/静态样式)
