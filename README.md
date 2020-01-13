@@ -22,13 +22,16 @@
      - [默认树配置](https://misshop.github.io/www/MisShop快速入门教程/4-10-开发技巧：默认树配置)  
 	 - [外键使用--OO,OM,MM](https://misshop.github.io/www/MisShop学习/外键)
 	 - [常用数据库连接工具](https://misshop.github.io/www/MisShop学习/MisShop常用数据库连接工具)
+  - 权限  
+	 - [权限管理](https://misshop.github.io/www/MisShop学习/权限管理----功能权限)
+	 - [登录客户端管理](https://misshop.github.io/www/MisShop学习/权限管理----机器码限制)
 
   - 页面
      - [页面概述](https://misshop.github.io/www/MisShop快速入门教程/3-1-页面概述)
      - [基础功能](https://misshop.github.io/www/MisShop快速入门教程/1-4-基础功能)
         - [页面浏览途径](https://misshop.github.io/www/MisShop学习/MisShop页面浏览途径)
      - [页面设置](https://misshop.github.io/www/MisShop学习/页面设置)
-        - [权限管理](https://misshop.github.io/www/MisShop学习/权限管理----功能权限)
+       
      - [列表页面设计举例](https://misshop.github.io/www/MisShop快速入门教程/3-2-列表页面设计举例)
      - [页面数据](https://misshop.github.io/www/MisShop快速入门教程/3-3-页面数据)
         - [List：MisShop前端数组封装](https://misshop.github.io/www/MisShop学习/List：Misshop前端的数组封装)
